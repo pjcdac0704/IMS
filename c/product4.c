@@ -57,7 +57,7 @@ void update(int index){
 }
 
 void delete_element(int index){
-    printf("\n Delete Existing  %d th Student Details\n", index+1);
+    printf("\n Delete Existing  %d the product Details\n", index+1);
     product[index].productno = 0;
     product[index].productname[0] = 0;
     product[index].quantity =0;
